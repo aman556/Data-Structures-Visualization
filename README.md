@@ -1,0 +1,1 @@
+# Data-Structures-Visualization is an application which helps those who are at the beginner level in learning data structures and algorithm by using this one can visualize linear and nonlinear data structures.
